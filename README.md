@@ -1,4 +1,4 @@
-# Xeus-cpp-wasm demo
+# Xeus-cpp-wasm demo - Yoan Gilliand
 
 This repo demostrates the capabilities of the latest release version of the xeus-cpp JupyterLite kernel
 
